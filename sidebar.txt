@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zkr:home|Door43 (zkr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zkr|d43-zkr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zkr/archive/master.zip|d43-zkr.zip]]
+
+**Recent Changes**
+{{changes>ns = zkr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zkr|Ethnologue data]]
+
